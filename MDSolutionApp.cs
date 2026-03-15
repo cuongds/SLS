@@ -56,80 +56,80 @@ namespace MDSolution
             //check Version:
             try
             {
-                //string sql = @"SELECT [Version],[UrlUpdate],isnull(MD5Code,'') as MD5Code FROM [sys_Version]
-                //                        WHERE [Version] =(select MAX([Version]) from [sys_Version])";
-                //DataSet ds = DBModule.ExecuteQuery(sql, null, null);
+                string sql = @"SELECT [Version],[UrlUpdate],isnull(MD5Code,'') as MD5Code FROM [sys_Version]
+                                        WHERE [Version] =(select MAX([Version]) from [sys_Version])";
+                DataSet ds = DBModule.ExecuteQuery(sql, null, null);
 
-                //if (ds.Tables[0].Rows.Count > 0)
-                //{
-                //    //update using http api
-                //    //System.Net.WebClient client = new System.Net.WebClient();
-                //    //client.Headers[HttpRequestHeader.ContentType] = "application/json";
-                //    //client.BaseAddress = DBModule.ParthUpdate;
-                //    //string respone = client.DownloadString(DBModule.ParthUpdate + "/api/Version?appid=MDSonLa");
-                //    //JavaScriptSerializer ser = new JavaScriptSerializer();
-                //    //mdUpdate = ser.Deserialize<MDUpdate>(respone);
-                //    mdUpdate.Version = ds.Tables[0].Rows[0]["Version"].ToString();
-                //    mdUpdate.UrlUpdate = ds.Tables[0].Rows[0]["UrlUpdate"].ToString();
-                //    mdUpdate.MD5Code = ds.Tables[0].Rows[0]["MD5Code"].ToString();
-                //    Version = mdUpdate.Version;
-                //    //---------
+                if (ds.Tables[0].Rows.Count > 0)
+                {
+                    //update using http api
+                    //System.Net.WebClient client = new System.Net.WebClient();
+                    //client.Headers[HttpRequestHeader.ContentType] = "application/json";
+                    //client.BaseAddress = DBModule.ParthUpdate;
+                    //string respone = client.DownloadString(DBModule.ParthUpdate + "/api/Version?appid=MDSonLa");
+                    //JavaScriptSerializer ser = new JavaScriptSerializer();
+                    //mdUpdate = ser.Deserialize<MDUpdate>(respone);
+                    mdUpdate.Version = ds.Tables[0].Rows[0]["Version"].ToString();
+                    mdUpdate.UrlUpdate = ds.Tables[0].Rows[0]["UrlUpdate"].ToString();
+                    mdUpdate.MD5Code = ds.Tables[0].Rows[0]["MD5Code"].ToString();
+                    Version = mdUpdate.Version;
+                    //---------
 
-                //    //StreamReader f = File.OpenText(DBModule.ParthUpdate + "\\database.cfg");
-                //    //string s;
-                //    //string[] spl;
+                    //StreamReader f = File.OpenText(DBModule.ParthUpdate + "\\database.cfg");
+                    //string s;
+                    //string[] spl;
 
-                //    //while (null != (s = f.ReadLine()))
-                //    //{
-                //    //    spl = s.Split('=');
-                //    //    switch (spl[0].Trim().ToLower())
-                //    //    {
-                //    //        case "parthupdate": ParthUpdate = spl[1]; break;
-                //    //        case "version": Version = spl[1]; break;
-                //    //    }
-                //    //}
-                //    //f.Close();
+                    //while (null != (s = f.ReadLine()))
+                    //{
+                    //    spl = s.Split('=');
+                    //    switch (spl[0].Trim().ToLower())
+                    //    {
+                    //        case "parthupdate": ParthUpdate = spl[1]; break;
+                    //        case "version": Version = spl[1]; break;
+                    //    }
+                    //}
+                    //f.Close();
 
-                //}
-                ////if (Version.CompareTo(DBModule.Version) > 0)
-                ////{
-                ////    //Download update file: 
-                ////    splash.progressBar.Value = 0;
-                ////    splash.progressBar.Visible = true;
-                ////    splash.lbMsg.Text = "Có phiên bản mới, vui lòng chờ trong giây lát để hệ thống cập nhật...";
-                ////    splash.lbMsg.Refresh();
-                ////    splash.progressBar.Refresh();
-                ////    System.Net.WebClient client = new System.Net.WebClient();
-                ////    client.Headers[HttpRequestHeader.ContentType] = "application/octet-stream";
-                ////    client.BaseAddress = DBModule.ParthUpdate;
-                ////    client.DownloadProgressChanged += new DownloadProgressChangedEventHandler(client_DownloadProgressChanged);
-                ////    client.DownloadFileCompleted += new System.ComponentModel.AsyncCompletedEventHandler(client_DownloadFileCompleted);
-                ////    client.DownloadFileAsync(new Uri(mdUpdate.UrlUpdate), mdUpdate.Version + ".zip");
-                ////    while (!downloadComplete)
-                ////    {
-                ////        Application.DoEvents();
-                ////    }
+                }
+                if (Version.CompareTo(DBModule.Version) > 0)
+                {
+                    //Download update file: 
+                    splash.progressBar.Value = 0;
+                    splash.progressBar.Visible = true;
+                    splash.lbMsg.Text = "Có phiên bản mới, vui lòng chờ trong giây lát để hệ thống cập nhật...";
+                    splash.lbMsg.Refresh();
+                    splash.progressBar.Refresh();
+                    System.Net.WebClient client = new System.Net.WebClient();
+                    client.Headers[HttpRequestHeader.ContentType] = "application/octet-stream";
+                    client.BaseAddress = DBModule.ParthUpdate;
+                    client.DownloadProgressChanged += new DownloadProgressChangedEventHandler(client_DownloadProgressChanged);
+                    client.DownloadFileCompleted += new System.ComponentModel.AsyncCompletedEventHandler(client_DownloadFileCompleted);
+                    client.DownloadFileAsync(new Uri(mdUpdate.UrlUpdate), mdUpdate.Version + ".zip");
+                    while (!downloadComplete)
+                    {
+                        Application.DoEvents();
+                    }
 
-                ////    downloadComplete = false;
-                ////    splash.lbMsg.Text = "";
-                ////    splash.lbMsg.Refresh();
-                ////    DBModule.UpdateVersion(mdUpdate.Version);
-                ////    //System.Threading.Thread.Sleep(20000);
-                ////    System.Diagnostics.Process.Start("MDUpdate.exe", "\"" + Application.StartupPath + "\\" + mdUpdate.Version + ".zip\" \"" + Application.StartupPath + "\\NewVersion" + "\"");
-                ////    Application.Exit();
-                ////    return;
-                ////}
+                    downloadComplete = false;
+                    splash.lbMsg.Text = "";
+                    splash.lbMsg.Refresh();
+                    DBModule.UpdateVersion(mdUpdate.Version);
+                    //System.Threading.Thread.Sleep(20000);
+                    System.Diagnostics.Process.Start("MDUpdate.exe", "\"" + Application.StartupPath + "\\" + mdUpdate.Version + ".zip\" \"" + Application.StartupPath + "\\NewVersion" + "\"");
+                    Application.Exit();
+                    return;
+                }
             }
             catch (Exception ex)
             {
 
-                //MessageBox.Show("Có lỗi khi cập nhật phiên bản mới. Vui lòng cập nhật phiên bản thủ công." + ex.Message + mdUpdate.UrlUpdate, "Có lỗi khi cập nhật phiên bản mới");
-                //MDForms.ManualUpdateVersion frm = new MDForms.ManualUpdateVersion();
-                //frm.lbThisVer.Text = DBModule.Version;
-                //frm.lbNewVer.Text = Version;
-                //frm.txtUrl.Text = mdUpdate.UrlUpdate;
-                //frm.MD5Code = mdUpdate.MD5Code;
-                //frm.ShowDialog();
+                MessageBox.Show("Có lỗi khi cập nhật phiên bản mới. Vui lòng cập nhật phiên bản thủ công." + ex.Message + mdUpdate.UrlUpdate, "Có lỗi khi cập nhật phiên bản mới");
+                MDForms.ManualUpdateVersion frm = new MDForms.ManualUpdateVersion();
+                frm.lbThisVer.Text = DBModule.Version;
+                frm.lbNewVer.Text = Version;
+                frm.txtUrl.Text = mdUpdate.UrlUpdate;
+                frm.MD5Code = mdUpdate.MD5Code;
+                frm.ShowDialog();
                 //if (frm.ShowDialog() == DialogResult.OK)
                 //{
 

@@ -1514,6 +1514,7 @@
     </Compile>
     <Compile Include="MDDataSet\DauTuDataSet.cs">
       <DependentUpon>DauTuDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="MDDataSet\DauTuDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -1538,9 +1539,11 @@
     </Compile>
     <Compile Include="MDDataSet\HopDongTrongMiaDataSet.cs">
       <DependentUpon>HopDongTrongMiaDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="MDDataSet\HopDongVanChuyenDataSet.cs">
       <DependentUpon>HopDongVanChuyenDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="MDDataSet\HopDongVanChuyenDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -2427,9 +2430,6 @@
     </Compile>
     <Compile Include="MDForms\VanChuyen\frm_TraCuuTT_VanChuyen.Designer.cs">
       <DependentUpon>frm_TraCuuTT_VanChuyen.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MDIParent1.cs">
-      <SubType>Form</SubType>
     </Compile>
     <Compile Include="MDReport\Baitapketgiacuoc.cs">
       <AutoGen>True</AutoGen>
@@ -3502,6 +3502,12 @@
     </Compile>
     <Compile Include="MDForms\frmViewHopDong.Designer.cs">
       <DependentUpon>frmViewHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
     </Compile>
     <Compile Include="MDReport\BCChiTietDauTuVaChinhSachThon.cs">
       <AutoGen>True</AutoGen>
@@ -6278,6 +6284,10 @@
       <DependentUpon>frmViewHopDong.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="MDReport\BCChiTietDauTuVaChinhSachThon.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>BCChiTietDauTuVaChinhSachThon.cs</LastGenOutput>
@@ -6863,8 +6873,6 @@
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="ENTITY_TABLE_MAPPING.md" />
-    <None Include="FIND_REPLACE_MAPPING.md" />
     <None Include="MDDataSet\DauTuDataSet.xsc">
       <DependentUpon>DauTuDataSet.xsd</DependentUpon>
     </None>
@@ -6983,7 +6991,6 @@
     <None Include="MDDataSet\XeVanChuyenDataSet.xss">
       <DependentUpon>XeVanChuyenDataSet.xsd</DependentUpon>
     </None>
-    <None Include="MIGRATION_REPORT.md" />
     <None Include="Properties\Settings.settings">
       <Generator>PublicSettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -1,0 +1,1288 @@
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.rpt
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.resx
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.cs
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.Designer.cs
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.cs
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe.config
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.pdb
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Shared.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Data.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ButtonBar.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Common.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ExplorerBar.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.FilterEditor.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.GridEX.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Ribbon.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Schedule.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.TimeLine.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.UI.v3.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.CSharp.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.VisualBasic.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Configuration.Install.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.DataSetExtensions.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Deployment.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Drawing.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Management.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Extensions.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Services.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Windows.Forms.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Xml.dll
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.pdb
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmCanBoNongVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.XeVanChuyen_ThemMoi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmCapVT_TuNgay_DenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmQuanLyVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaNhanVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_Temp_Import_CapVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDFoms.CapVatTu.frmConfirm.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmDanhMucVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHoTroVD.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapTienTraNoVuTruoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmUngTruocTienMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonThonCanBoNongVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_CF_LaiSuat_VuTrong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaGiaVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.CapNhatLaiSuat.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.HoTro_TuNgay_DenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMia.dlgThayDoiLaiSuat.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frmDauTuLog.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_XoaDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_DienTichCBDB.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_SuaNhapDienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_DienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmMiaGiongLog.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapHoTroLog.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNoLog.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_history.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTro.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.frm_XoaNhapMiaGiong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_NhapTienTraNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.TongHopThanhToan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_KeHoach_TheoDoiTienDoThuHoach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_ChonCBDB.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_LapKeHoach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_TangSoChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen_All.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_CapNhatDonGiaVanChuyenBTK.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ChuyenVu_HDVC.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ChonHD.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_LapPhieuVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaHopDongNhanVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTuThuNoTheoHo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_ThuNo_TuNgay_DenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DoiChieuCongNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_TuNgay_DenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_KetChuyenVu_Confirm.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_ShowPrint.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNV.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNVTong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet_VatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachMuaVatTuCty.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmEditNganHang.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHopDongLog.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapLuongMiaKeHoachNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienMuaVatTuCty.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNhapMiaGiong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyUngTienMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyChamSoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNgayChotTinhLai.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVHD.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVSL.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DD.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DT.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSuaPhieuCanMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVanChuyen_Sua.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTuVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiNhapMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiUngVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmXemNgayCan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_BieuLienKet.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChonDiaBan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenBTK.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKH.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKHVC.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_DatNgayMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DauTuVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_GiaMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_TachPhieuVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMiaChay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ShowDinhMucDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_ThemSuaBTK.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MainForm.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen_ThemMoi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNganHang.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.checkDL.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Export_DLTheoNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Frm_ChonHDChinh.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_LamThanhToan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ManualUpdateVersion.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_BangCanDoi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_NhapMiaGiong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_TuNgay_DenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.SQLEX.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frmTimKiemHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_Confirm_Huy.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThanhToan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThemDotTT.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThuHoach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChitietThuHoach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.DakNongReport.InPhieuBaoDon.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frmHopDongVanChuyen_ThemMoi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ThemSuaUngVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_TraCuuTT_VanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_BaoCaoDienTich_CBDB.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BangKeThanhTTMia_TheoCanBoDiaBan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BaoCaoTTVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDauTuTheCBNV.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.SoChiTietCongNoTheoHo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.HoTroTheoSanLuong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.MauChinhSachMuaVatTuVaUng.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ThanhToanNganHangTheoDot.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacDonViGianTiep.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacCongTy.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.VanChuyenTongHop.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.NoDauTu.rp_TongNoTruocKhiTru_frm2.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmAbout.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPrintPreview.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSplashScreen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachHoTroLoaiHinh.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhsachQuanLyKhauHao.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDoiMatKhau.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHoTroTheoLoaiHinh.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatDuKienTheoThon.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienHoTro.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapTienMat.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung_XacNhanPass.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmSuaTrongLuongMiaNhap.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDataConnection.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmGhepMaCan.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmLogin.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapMia.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmShowRP.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmStatus.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThanhToanGoiY.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDIParent1.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Properties.Resources.resources
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csproj.GenerateResource.Cache
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe.licenses
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.pdb
+F:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csprojResolveAssemblyReference.cache
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.rpt
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.resx
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.cs
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.Designer.cs
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.cs
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe.config
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.pdb
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Shared.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Data.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ButtonBar.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Common.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ExplorerBar.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.FilterEditor.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.GridEX.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Ribbon.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Schedule.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.TimeLine.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.UI.v3.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.CSharp.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.VisualBasic.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Configuration.Install.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.DataSetExtensions.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Deployment.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Drawing.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Management.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Extensions.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Services.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Windows.Forms.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Xml.dll
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.pdb
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csprojResolveAssemblyReference.cache
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmCanBoNongVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.XeVanChuyen_ThemMoi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgDauTuHo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgBaiTapKet.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmCapVT_TuNgay_DenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmQuanLyVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaNhanVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_Temp_Import_CapVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDFoms.CapVatTu.frmConfirm.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmDanhMucVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHoTroVD.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapTienTraNoVuTruoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmUngTruocTienMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonThonCanBoNongVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_CF_LaiSuat_VuTrong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaVanChuyenVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaGiaVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.CapNhatLaiSuat.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.HoTro_TuNgay_DenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMia.dlgThayDoiLaiSuat.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frmDauTuLog.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_XoaDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_DienTichCBDB.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_SuaNhapDienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_SLDK.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_DienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmMiaGiongLog.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTroKDT.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapHoTroLog.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNoLog.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_history.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.HoTro.frmNgayChotHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm_Huy.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_DanhSach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_NhapTienTraNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_TienTruNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhHoTroDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ThemSuaHoTroLai.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.frm_XoaNhapMiaGiong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_NhapTienTraNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.TongHopThanhToan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_KeHoach_TheoDoiTienDoThuHoach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_ChonCBDB.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_LapKeHoach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_TangSoChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen_All.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_CapNhatDonGiaVanChuyenBTK.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ChuyenVu_HDVC.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ChonHD.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_LapPhieuVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaHopDongNhanVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTuThuNoTheoHo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_ThuNo_TuNgay_DenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DoiChieuCongNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_TuNgay_DenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_KetChuyenVu_Confirm.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_ShowPrint.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNV.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNVTong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet_VatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachMuaVatTuCty.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmEditNganHang.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHopDongLog.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapLuongMiaKeHoachNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienMuaVatTuCty.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNhapMiaGiong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyUngTienMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyChamSoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNgayChotTinhLai.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVHD.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVSL.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DD.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DT.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSuaPhieuCanMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVanChuyen_Sua.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTuVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiNhapMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiUngVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmXemNgayCan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_BieuLienKet.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChonDiaBan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenBTK.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKH.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKHVC.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_DatNgayMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DauTuVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_GiaMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_TachPhieuVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMiaChay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ShowDinhMucDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_ThemSuaBTK.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MainForm.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen_ThemMoi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNganHang.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.checkDL.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Export_DLTheoNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Frm_ChonHDChinh.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_LamThanhToan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ManualUpdateVersion.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_BangCanDoi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_NhapMiaGiong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_TuNgay_DenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.SQLEX.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frmTimKiemHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_Confirm_Huy.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThanhToan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThemDotTT.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThuHoach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChitietThuHoach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.DakNongReport.InPhieuBaoDon.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frmHopDongVanChuyen_ThemMoi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ThemSuaUngVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_TraCuuTT_VanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_BaoCaoDienTich_CBDB.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BangKeThanhTTMia_TheoCanBoDiaBan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BaoCaoTTVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuHoTroTheCBNV.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDauTuTheCBNV.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.SoChiTietCongNoTheoHo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.HoTroTheoSanLuong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.MauChinhSachMuaVatTuVaUng.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ThanhToanNganHangTheoDot.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacDonViGianTiep.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacCongTy.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.VanChuyenTongHop.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.NoDauTu.rp_TongNoTruocKhiTru_frm2.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmAbout.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPrintPreview.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSplashScreen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachHoTroLoaiHinh.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhsachQuanLyKhauHao.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDoiMatKhau.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHoTroTheoLoaiHinh.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatDuKienTheoThon.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienHoTro.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapTienMat.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung_XacNhanPass.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmSuaTrongLuongMiaNhap.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDataConnection.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmGhepMaCan.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmLogin.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapMia.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmShowRP.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmStatus.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThanhToanGoiY.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDIParent1.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Properties.Resources.resources
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csproj.GenerateResource.Cache
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe.licenses
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe
+G:\MIA DUONG\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.pdb
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.rpt
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.resx
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.cs
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.Designer.cs
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.cs
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe.config
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.pdb
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Shared.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Data.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ButtonBar.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Common.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ExplorerBar.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.FilterEditor.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.GridEX.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Ribbon.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Schedule.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.TimeLine.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.UI.v3.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.CSharp.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.VisualBasic.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Configuration.Install.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Deployment.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Drawing.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Management.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Extensions.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Services.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Windows.Forms.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Xml.dll
+D:\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.pdb
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csprojResolveAssemblyReference.cache
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmCanBoNongVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.XeVanChuyen_ThemMoi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgDauTuHo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgBaiTapKet.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmCapVT_TuNgay_DenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmQuanLyVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaNhanVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_Temp_Import_CapVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDFoms.CapVatTu.frmConfirm.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmDanhMucVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHoTroVD.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapTienTraNoVuTruoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmUngTruocTienMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonThonCanBoNongVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_CF_LaiSuat_VuTrong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaVanChuyenVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaGiaVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.CapNhatLaiSuat.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTuTuMiaGiong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.HoTro_TuNgay_DenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMia.dlgThayDoiLaiSuat.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frmDauTuLog.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_XoaDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_DienTichCBDB.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_SuaNhapDienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_SLDK.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_DienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmMiaGiongLog.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTroKDT.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapHoTroLog.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNoLog.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_history.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.HoTro.frmNgayChotHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm_Huy.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_DanhSach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_NhapTienTraNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_TienTruNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhHoTroDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ThemSuaHoTroLai.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.frm_XoaNhapMiaGiong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_NhapTienTraNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.TongHopThanhToan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_KeHoach_TheoDoiTienDoThuHoach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_ChonCBDB.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_LapKeHoach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_TangSoChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen_All.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_CapNhatDonGiaVanChuyenBTK.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ChuyenVu_HDVC.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ChonHD.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_LapPhieuVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaHopDongNhanVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTuThuNoTheoHo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_ThuNo_TuNgay_DenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DoiChieuCongNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_TuNgay_DenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_KetChuyenVu_Confirm.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_ShowPrint.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNV.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNVTong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet_VatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachMuaVatTuCty.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmEditNganHang.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHopDongLog.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapLuongMiaKeHoachNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienMuaVatTuCty.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNhapMiaGiong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyUngTienMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyChamSoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNgayChotTinhLai.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVHD.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVSL.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DD.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DT.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSuaPhieuCanMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVanChuyen_Sua.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTuVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiNhapMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiUngVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmXemNgayCan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_BieuLienKet.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChonDiaBan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenBTK.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKH.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKHVC.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_DatNgayMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DauTuVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_GiaMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_TachPhieuVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMiaChay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ShowDinhMucDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_ThemSuaBTK.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MainForm.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen_ThemMoi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNganHang.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.checkDL.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Export_DLTheoNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Frm_ChonHDChinh.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_LamThanhToan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ManualUpdateVersion.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_BangCanDoi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_NhapMiaGiong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_TuNgay_DenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.SQLEX.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frmTimKiemHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_Confirm_Huy.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThanhToan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThemDotTT.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThuHoach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChitietThuHoach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.DakNongReport.InPhieuBaoDon.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frmHopDongVanChuyen_ThemMoi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ThemSuaUngVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_TraCuuTT_VanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_BaoCaoDienTich_CBDB.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BangKeThanhTTMia_TheoCanBoDiaBan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BaoCaoTTVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuHoTroTheCBNV.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDauTuTheCBNV.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.SoChiTietCongNoTheoHo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.HoTroTheoSanLuong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.MauChinhSachMuaVatTuVaUng.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ThanhToanNganHangTheoDot.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacDonViGianTiep.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacCongTy.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.VanChuyenTongHop.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.NoDauTu.rp_TongNoTruocKhiTru_frm2.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmAbout.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPrintPreview.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSplashScreen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachHoTroLoaiHinh.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhsachQuanLyKhauHao.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDoiMatKhau.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHoTroTheoLoaiHinh.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatDuKienTheoThon.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienHoTro.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapTienMat.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung_XacNhanPass.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmSuaTrongLuongMiaNhap.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDataConnection.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmGhepMaCan.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmLogin.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapMia.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmShowRP.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmStatus.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThanhToanGoiY.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDIParent1.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Properties.Resources.resources
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csproj.GenerateResource.Cache
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe.licenses
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe
+D:\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.pdb
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.rpt
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.resx
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.cs
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDDataSetForms\NewForm\frmDienTichDangKy.Designer.cs
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\MDReport\ThuHoach\rpt_PhieuBaoChatMia.cs
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe.config
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.exe
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLS.pdb
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CRUFLIDAutomation.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.CrystalReports.TemplateEngine.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Shared.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\IDAutomation.LinearBarCode.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Data.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ButtonBar.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Common.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.ExplorerBar.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.FilterEditor.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.GridEX.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Ribbon.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.Schedule.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.TimeLine.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Janus.Windows.UI.v3.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\Newtonsoft.Json.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Configuration.Install.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.DataSetExtensions.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Data.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Deployment.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Drawing.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Management.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Net.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Net.Http.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Extensions.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Web.Services.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Windows.Forms.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\System.Xml.dll
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\bin\Debug\SLSCCSEntities.pdb
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csprojResolveAssemblyReference.cache
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmCanBoNongVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.XeVanChuyen_ThemMoi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgDauTuHo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgBaiTapKet.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmCapVT_TuNgay_DenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDFoms.CapVatTu.frmConfirmGhiChu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDFoms.CapVatTu.frmConfirm.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmQuanLyVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaNhanVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_Temp_Import_CapVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frmDanhMucVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHoTroVD.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapTienTraNoVuTruoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmUngTruocTienMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonThonCanBoNongVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgGiaVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_CF_LaiSuat_VuTrong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_SuaVanChuyenVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaGiaVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.CapNhatLaiSuat.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTuTuMiaGiong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.HoTro_TuNgay_DenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMia.dlgThayDoiLaiSuat.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frmDauTuLog.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_XoaDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_DienTichCBDB.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapDienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_SuaNhapDienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_SLDK.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_Temp_Import_DienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmHopDongMuaTaiBanCan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmMiaGiongLog.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiUngVanChuyen_Confirm_GhiChu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTroKDT.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapHoTroLog.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNoLog.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_history.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.HoTro.frmNgayChotHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_Confirm_Huy.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_DanhSach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_NhapTienTraNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhCongNo_TienTruNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ChietTinhHoTroDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.HoTro.frm_ThemSuaHoTroLai.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.frm_XoaNhapMiaGiong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_NhapTienTraNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.TongHopThanhToan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_ChonUuTien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_KeHoach_TheoDoiTienDoThuHoach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_ChonCBDB.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThuHoach.frm_LapKeHoach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_TangSoChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frmQuanLyUngTien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_NhapUngTien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_KeHoachNhapUngVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_NhapUngVanChuyenTemp.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_NhapUngTienTemp.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_Temp_Import_UngVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_Temp_Import_UngTien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.UngTien.frm_ThemSuaUngVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frmConfirm.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoTroVC.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_NhapHoanUngVC.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen_All.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_TongHopVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_CapNhatDonGiaVanChuyenBTK.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ChuyenVu_HDVC.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ChonHD.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_LapPhieuVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_ThemSuaHopDongNhanVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTuThuNoTheoHo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_ThuNo_TuNgay_DenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DoiChieuCongNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.DauTu_TuNgay_DenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_KetChuyenVu_Confirm.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DauTu.frm_ShowPrint.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNV.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTichCBNVTong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet_VatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachMuaVatTuCty.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmEditNganHang.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHopDongLog.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapLuongMiaKeHoachNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienMuaVatTuCty.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNhapMiaGiong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyUngTienMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyChamSoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNgayChotTinhLai.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVHD.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNVSL.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DD.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoCBNV_DT.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSuaPhieuCanMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVanChuyen_Sua.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTuVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiNhapMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTheoDoiUngVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmXemNgayCan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_BieuLienKet.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChonDiaBan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenBTK.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKH.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChuyenDoiKHVC.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_DatNgayMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DauTuVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_DienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_GiaMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.CapVatTu.frm_TachPhieuVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_NhapTB_GiaMiaChay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ShowDinhMucDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_ThemSuaBTK.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MainForm.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen_ThemMoi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNganHang.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.checkDL.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Export_DLTheoNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.Frm_ChonHDChinh.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_LamThanhToan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ManualUpdateVersion.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_BangCanDoi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_NhapMiaGiong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.NhapMiaGiong.MiaGiong_TuNgay_DenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.SQLEX.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frmTimKiemHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ChietTinhCongNo_Confirm_Huy.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThanhToan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.ThanhToan2016.frm_ThemDotTT.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThuHoach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frm_ChitietThuHoach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.DakNongReport.InPhieuBaoDon.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frmHopDongVanChuyen_ThemMoi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.VanChuyen.frm_ThemSuaUngVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frm_TraCuuTT_VanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.DienTich.frm_BaoCaoDienTich_CBDB.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BangKeThanhTTMia_TheoCanBoDiaBan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BaoCaoTTVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuHoTroTheCBNV.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDauTuTheCBNV.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.SoChiTietCongNoTheoHo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.HoTroTheoSanLuong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.MauChinhSachMuaVatTuVaUng.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ThanhToanNganHangTheoDot.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacDonViGianTiep.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacCongTy.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.VanChuyenTongHop.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.NoDauTu.rp_TongNoTruocKhiTru_frm2.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmAbout.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPrintPreview.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmSplashScreen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachHoTroLoaiHinh.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmDanhsachQuanLyKhauHao.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDoiMatKhau.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmHoTroTheoLoaiHinh.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapNangSuatDuKienTheoThon.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienHoTro.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapTienMat.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung_XacNhanPass.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmSuaTrongLuongMiaNhap.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTamUngVatTu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmBaiTapKet.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDataConnection.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmGhepMaCan.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmLogin.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmNhapMia.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmShowRP.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmStatus.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThanhToanGoiY.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.MDIParent1.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\MDSolution.Properties.Resources.resources
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLSSolution.csproj.GenerateResource.Cache
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe.licenses
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.exe
+D:\CUONG\Inno\SON LA\MDSonLa\MDSonLa\obj\Debug\SLS.pdb
